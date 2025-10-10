@@ -128,13 +128,16 @@ Exemple:
   - Mise en place de services de surveillance (CPU, mémoire, latence, etc.).
   - Journalisation des événements importants (logs d’accès, erreurs, etc.).
 
-- **Défi installation** :
+================================================================================
+============================== SI VOUS ÊTES PLUS DE 2 ==========================
+================================================================================
 
-  - Vendredi matin, vous serez en compétition avec les autres équipes d'Infra pour déployer l'entièreté de votre infrastructure en le moins de temps possible, le tout sur un serveur Linux (CPU x86_64). Seul l'installation compte, pas la partie sécurité. Vous serez noté sur le temps de déploiement et sur le nombre de services fonctionnels (COMMUNIQUANT ENTRE EUX (pas la peine de lancer 128 WordPress en même temps...)) à la fin du défi.
+Essayer de mettre en place une architecture plus complexe, par exemple :
 
-  - Peut importe l'avancement du reste du projet, même avec un site "Hello World", le "fonctionnel" des autres départements n'est pas pris en compte dans la note dans ce challenge.
+- **Haute disponibilité** :
 
-  - Vous devrez impérativement venir à 2 (2 Infra) avec en plus un de vos collègues **qui devra impérativement intervenir dans l'installation et pas seulement regarder**.
+  - Mise en place de la redondance pour assurer la disponibilité du service. (2 serveurs minimum)
+  - Utilisation de plusieurs zones de disponibilité si possible.
 
 ### Supplémentaires (bonus)
 
