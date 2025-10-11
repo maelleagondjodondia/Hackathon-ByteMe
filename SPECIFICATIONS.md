@@ -280,4 +280,6 @@ A la fin de ce Hackathon, vous devrez fournir:
 - - Le code source de votre application (frontend, backend, scripts d'infrastructure, notebooks, etc.)
 - - Tous les fichiers rapports présents dans [rendus/](rendus/) (Parsemez le fichier d'illustrations, schémas de votre choix, etc. pour le rendre plus vivant)
 - - Votre présentation au format de votre choix (PDF, PPTX, Lien Canva/Google Slides, etc.)
--
+- Le README principal à la racine du projet entièrement complété
+
+Dernier délai pour rendre votre projet: **Vendredi 17 octobre 2025 à 21h00**.
