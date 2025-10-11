@@ -23,6 +23,8 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 
 > Retrouvez vos guidelines techniques dans le fichier [SPECIFICATIONS.md](./SPECIFICATIONS.md).
 
+> P.S C'est un projet de groupe, pas autant de sous-projets que de filières dans votre équipe. Travaillez ensemble pour un seul et même projet au nom de votre équipe toute entière. Les guidelines sont là pour vous aider, pas pour vous diviser. Profitez de ce moment pour apprendre à travailler ensemble, partager vos compétences, et créer quelque chose d'unique.
+
 ## Equipe
 
 - Dev' FullStack 1 : NOM Prénom
