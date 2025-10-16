@@ -27,13 +27,13 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 
 ## Equipe
 
-- Dev' FullStack 1 : NOM Prénom
-- Dev' FullStack 2 : NOM Prénom
-- Dev' FullStack 3 : NOM Prénom
-- Cloud & Infrastructure 1 : NOM Prénom
-- Cloud & Infrastructure 2 : NOM Prénom
-- IA & Data 1 : NOM Prénom
-- IoT/Mobile / Systèmes Embarqués 1 : NOM Prénom
+- Dev' FullStack 1 : AGONDJO DONDIA Maëlle (Porte parole)
+- Dev' FullStack 2 : LE MEUR Vincent
+- Cloud & Infrastructure 1 : GONZALEZ PATINO Luis Antonio
+- Cloud & Infrastructure 2 : MBOK BATOUM Emmanuel Christian
+- IA & Data 1 : KOUEMO TIENTCHEU Yvan Morryl
+- IA & Data 1 : MAHUNON Harold
+- IA & Data 1 : SOGBOSSI Michee
 
 > Préciser qui est le porte parole de l'équipe, c'est lui qui répondra aux questions si nécessaire.
 
