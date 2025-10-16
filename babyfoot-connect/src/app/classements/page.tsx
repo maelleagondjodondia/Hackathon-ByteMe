@@ -34,7 +34,7 @@ export default function ClassementsPage() {
           </div>
           <h1 className="text-3xl font-bold text-foreground">Classements</h1>
           <p className="text-muted-foreground">
-            Découvrez les meilleurs joueurs et équipes de Babyfoot Connect 🏓
+            Découvrez les meilleurs joueurs et équipes de Babyfoot Connect 
           </p>
         </div>
 
