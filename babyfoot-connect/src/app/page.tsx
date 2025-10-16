@@ -46,10 +46,12 @@ export default function HomePage() {
                 <Calendar className="h-5 w-5" />
                 Réserver un créneau
               </Button>
-              <Button size="lg" variant="outline" className="gap-2 text-lg px-8 bg-transparent">
-                <Crown className="h-5 w-5" />
-                Voir le classement
-              </Button>
+              <a href="/classements">
+                <Button size="lg" variant="outline" className="gap-2 text-lg px-8 bg-transparent cursor-pointer">
+                  <Crown className="h-5 w-5" />
+                  Voir le classement
+                </Button>
+              </a>
             </div>
           </div>
         </div>
