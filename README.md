@@ -56,22 +56,22 @@ Veuillez trouver la présentation du projet: https://www.canva.com/design/DAG2CA
 
 ## Technologies utilisées
 
-- Développement
+- Développement :
   React.js
   Next.js
   Tailwind
   
-- Base de données
+- Base de données:
   Python
   SQL
   Jupyter NoteBook
   
-- Infrastructure Cloud
+- Infrastructure Cloud:
   Ubuntu
   Pfsense (firewall)
   Nagios (Supervision)
 
-- Gestion projet
+- Gestion projet:
   Teams
   Notion
   GitHub
@@ -88,11 +88,11 @@ Pour mettre en place le firewall, importez le fichier de configuration après av
 
 ## Etat des lieux
 
-- Développement
+- Développement:
   Vérification des emails (amélioration)
   
-- Data & IA
+- Data & IA:
   Prédiction du gagnant / score (amélioration)
   
-- Infrastructure Cloud
+- Infrastructure Cloud:
   Implémentation de l'infrastructure locale dans le cloud (manquant)
