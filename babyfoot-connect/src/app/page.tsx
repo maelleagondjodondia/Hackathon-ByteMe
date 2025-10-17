@@ -1,3 +1,5 @@
+"use client"
+
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { StatCard } from "@/components/start-card"
@@ -5,6 +7,11 @@ import { LiveMatchCard } from "@/components/live-match-card"
 import { LeaderboardRow } from "@/components/leaderboard-row"
 import { mockStats, mockMatches, mockPlayers } from "@/lib/mock-data"
 import { Trophy, Users, Table2, TrendingUp, LogIn, Calendar, Crown } from "lucide-react"
+
+
+const currentUser = {
+  role: "Admin" // ou "Joueur" par exemple
+}
 
 export default function HomePage() {
   return (
@@ -21,6 +28,18 @@ export default function HomePage() {
                 <p className="text-xs text-muted-foreground">La Gamelle d'Ynov</p>
               </div>
             </div>
+
+            <nav className="mt-2 flex gap-4 text-sm text-muted-foreground">
+              {currentUser.role === "Admin" && (
+                <button
+                  onClick={() => window.location.href = "/dashboard"}
+                  className="px-3 py-1 rounded bg-primary text-primary-foreground font-medium hover:bg-primary/80 transition-colors"
+                >
+                  Dashboard
+                </button>
+              )}
+            </nav>
+
             <Button variant="outline" className="gap-2 bg-transparent" asChild>
               <a href="/login">
                 <LogIn className="h-4 w-4" />
