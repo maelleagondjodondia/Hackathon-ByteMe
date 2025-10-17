@@ -77,7 +77,7 @@ Veuillez trouver la présentation du projet: https://www.canva.com/design/DAG2CA
   GitHub
   
 ## Architecture
-<td align="center"><img src="https://github.com/maelleagondjodondia/Hackathon-ByteMe/blob/main/infra.jpg?raw=true" alt="Hackathon Ynov Toulouse 2025" width="100"/></td>
+Voir: infra.jpg
 
 ## Guide de déploiement
 
