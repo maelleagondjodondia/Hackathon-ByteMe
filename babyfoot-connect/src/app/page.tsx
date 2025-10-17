@@ -157,9 +157,6 @@ export default function HomePage() {
               <a href="/more" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 À propos
               </a>
-              <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-                Contact
-              </a>
               <a href="/rules" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 Règlement
               </a>
