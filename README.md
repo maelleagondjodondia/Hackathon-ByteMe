@@ -56,24 +56,43 @@ Veuillez trouver la présentation du projet: https://www.canva.com/design/DAG2CA
 
 ## Technologies utilisées
 
-> Ici, listez les principales technologies, en expliquant pourquoi vous les avez choisies. Tout choix technique, langages, frameworks doit être justifié. (Parce que vous maîtrisez déjà la techno, parce que c'est la plus adaptée au besoin, parce que c'est la plus innovante, etc.)
+- Développement :
+  React.js
+  Next.js
+  Tailwind
+  
+- Base de données:
+  Python
+  SQL
+  Jupyter NoteBook
+  
+- Infrastructure Cloud:
+  Ubuntu
+  Pfsense (firewall)
+  Nagios (Supervision)
 
+- Gestion projet:
+  Teams
+  Notion
+  GitHub
+  
 ## Architecture
 
 > Faite un schéma simple de l'architecture technique de votre solution. Chaque service/composant est un bloc, et les interactions entre les blocs sont des flèches. Vous pouvez utiliser des outils comme [draw.io](https://app.diagrams.net/), ou encore [Excalidraw](https://excalidraw.com/) pour créer vos schémas. C'est une vue d'ensemble, pas un détail de chaque composant. Chacun d'entre vous doit être capable d'expliquer cette architecture.
 
 ## Guide de déploiement
 
-> Expliquez comment déployer votre application **EN MOINS DE LIGNES DE COMMANDE POSSIBLES**. Docker, Ansible, Terraform, Scripts Shell... Le but est de pouvoir déployer votre application en une seule commande ou presque.
+Executez les scripts de setup pour les différents serveurs (Web Server & DB Host) pour permettre de exploiter les données et afficher le site web
 
-Exemple de lancement en **une seule commande**:
-
-[Références Proxmox HelperScripts](https://github.com/community-scripts/ProxmoxVE/tree/main/install)
-
-> /!\ IMPORTANT /!\ : Votre projet sera déployé sur une machine **LINUX** (Debian/Ubuntu), avec 4Go de RAM et 2 CPU (x86_64). Assurez-vous que votre application peut fonctionner dans ces conditions. Il n'y aura pas de "Ca marche sur mon Mac." ou encore "Si on alligne les astres sur Windows XP ça passe.".
+Pour mettre en place le firewall, importez le fichier de configuration après avoir accédé à l'interface graphique de configuration -> Diagnostics > Backup & Restore
 
 ## Etat des lieux
 
-> Section d'honnêteté, décrivez ce qui n'a pas été fait, ce qui aurait pu être amélioré, les limitations de votre solution actuelle. Montrez que vous avez une vision critique de votre travail, de ce qui a été accompli durant ces deux demi-journées.
-
-Le but n'est pas de faire un produit fini, mais de montrer vos compétences techniques, votre capacité à travailler en équipe, à gérer un projet, et à livrer quelque chose de fonctionnel dans un temps limité.
+- Développement:
+  Vérification des emails (amélioration)
+  
+- Data & IA:
+  Prédiction du gagnant / score (amélioration)
+  
+- Infrastructure Cloud:
+  Implémentation de l'infrastructure locale dans le cloud (manquant)
