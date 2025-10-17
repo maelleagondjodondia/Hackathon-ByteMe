@@ -50,7 +50,9 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 
 ## Contenu du projet
 
-> Décrivez brièvement le projet, son objectif. Utilisez une vue business pour décrire ce que votre produit/service apporte à vos utilisateurs.
+ByteMe vous présente Babyfoot Connect un site permettant de transformer les tables dans le Souk en une expérience moderne, intéractive et connecté.
+
+Veuillez trouver la présentation du projet: https://www.canva.com/design/DAG2CAmtXa4/BkjK_gvrlreHx9S2BJcukw/edit?utm_content=DAG2CAmtXa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Technologies utilisées
 
