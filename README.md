@@ -29,6 +29,7 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 
 - Dev' FullStack 1 : AGONDJO DONDIA Maëlle (Porte parole)
 - Dev' FullStack 2 : LE MEUR Vincent
+- Dev' Fullstack 3 : BENGHOUZI Pauline
 - Cloud & Infrastructure 1 : GONZALEZ PATINO Luis Antonio
 - Cloud & Infrastructure 2 : MBOK BATOUM Emmanuel Christian
 - IA & Data 1 : KOUEMO TIENTCHEU Yvan Morryl
