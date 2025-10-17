@@ -2,7 +2,9 @@
 
 ## Equipe
 
-- IA & Data 1 : NOM Prénom
+- IA & Data 1 : KOUEMO TIENTCHEU Yvan Morryl
+- IA & Data 2 : MAHUNON Harold
+- IA & Data 3 : SOGBOSSI Michee
 
 Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service _next-gen_, pensé pour près de 1000 étudiants !
 
@@ -29,3 +31,5 @@ Autrement, il n'y a pas de format imposé, mais essayez de rester clair et conci
 En conclusion, cela doit résumer votre travail en tant qu'expert.e IA Data, et vous permettre de garder un trace écrite de votre contribution au projet.
 
 Merci de votre participation, et bon courage pour la suite du hackathon !
+
+## Message : Les détails et justifications de nos actions sont présentés dans le notebook [analysis.ipynb](../data_analysis/analysis.ipynb).

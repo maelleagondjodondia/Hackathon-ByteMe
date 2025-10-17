@@ -33,8 +33,8 @@ Bienvenue dans le Hackathon Ynov Toulouse 2025 !
 - Cloud & Infrastructure 1 : GONZALEZ PATINO Luis Antonio
 - Cloud & Infrastructure 2 : MBOK BATOUM Emmanuel Christian
 - IA & Data 1 : KOUEMO TIENTCHEU Yvan Morryl
-- IA & Data 1 : MAHUNON Harold
-- IA & Data 1 : SOGBOSSI Michee
+- IA & Data 2 : MAHUNON Harold
+- IA & Data 3 : SOGBOSSI Michee
 
 > Préciser qui est le porte parole de l'équipe, c'est lui qui répondra aux questions si nécessaire.
 
