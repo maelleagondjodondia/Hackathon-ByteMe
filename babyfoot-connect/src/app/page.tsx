@@ -139,9 +139,11 @@ export default function HomePage() {
                   Créer un compte
                 </a>
               </Button>
-              <Button size="lg" variant="outline">
-                En savoir plus
-              </Button>
+              <a href="/more" className="cursor-pointer">
+                <Button size="lg" variant="outline" className="gap-2 text-lg px-4 bg-transparent cursor-pointer text-base">
+                  En savoir plus
+                </Button>
+              </a>
             </div>
           </Card>
         </div>
@@ -152,7 +154,7 @@ export default function HomePage() {
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground">© 2025 Babyfoot Connect - Ynov Toulouse</p>
             <div className="flex gap-6">
-              <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+              <a href="/more" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 À propos
               </a>
               <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
