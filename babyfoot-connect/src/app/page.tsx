@@ -160,7 +160,7 @@ export default function HomePage() {
               <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 Contact
               </a>
-              <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+              <a href="/rules" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
                 Règlement
               </a>
             </div>
