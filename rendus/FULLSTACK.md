@@ -2,9 +2,9 @@
 
 ## Equipe
 
-- Dev' FullStack 1 : NOM Prénom
-- Dev' FullStack 2 : NOM Prénom
-- Dev' FullStack 3 : NOM Prénom
+- Dev' FullStack 1 : AGONDJO DONDIA Maëlle (Porte parole)
+- Dev' FullStack 2 : LE MEUR Vincent
+- Dev' Fullstack 3 : BENGHOUZI Pauline
 
 Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service _next-gen_, pensé pour près de 1000 étudiants !
 
