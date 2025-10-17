@@ -1,0 +1,26 @@
+Pour révolutionner l'utilisation des babyfoots au sein d'Ynov, nous avons opté pour la création d'un site web qui permet de :
+- Faire des réservations de babyfoots
+- Gérer les babyfoots
+
+Pour ce faire notre site contient plusieurs pages à savoir :
+- La page d'accueil
+- La page de classement
+- La page dashbord
+- La page règles
+- Les pages insscription et connexion
+
+Tester notre site :
+
+Étape 1 : Cloner le projet 
+=> git clone https://github.com/maelleagondjodondia/Hackathon-ByteMe.git
+
+Étape 2 : Se placer dans le projet Hackathon-ByteMe/babyfoot-connect
+
+Étape 3 : Charger les dernières modifications
+=> Exécutez la commande : git pull origin main
+
+Étape 4 : Lancer le projet
+=> Exécutez la commande : npm run dev puis suivre le lien du localhost
+
+
+
