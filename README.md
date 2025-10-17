@@ -77,8 +77,7 @@ Veuillez trouver la présentation du projet: https://www.canva.com/design/DAG2CA
   GitHub
   
 ## Architecture
-
-> Faite un schéma simple de l'architecture technique de votre solution. Chaque service/composant est un bloc, et les interactions entre les blocs sont des flèches. Vous pouvez utiliser des outils comme [draw.io](https://app.diagrams.net/), ou encore [Excalidraw](https://excalidraw.com/) pour créer vos schémas. C'est une vue d'ensemble, pas un détail de chaque composant. Chacun d'entre vous doit être capable d'expliquer cette architecture.
+<td align="center"><img src="infra.jpeg" alt="Hackathon Ynov Toulouse 2025" width="100"/></td>
 
 ## Guide de déploiement
 
